@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Conway's Game Of Life.sln"
+    "dotnet.defaultSolution": "Conways_Game_Of_Life.sln"
 }
